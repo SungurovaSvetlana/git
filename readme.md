@@ -23,6 +23,8 @@ LICENSE: [MIT](./license.md)
 ---
 ### 5. [GIT. Ветвление](branch.md "перейти к странице")
 ---
+### 6. [Шапрагалки](help.md "перейти к странице")
+---
 
 
 GIT logo Jason Long - https://git-scm.com/downloads/logos, license: [СС BY 3.0](https://creativecommons.org/licenses/by/3.0/)
