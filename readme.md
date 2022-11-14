@@ -15,5 +15,11 @@ LICENSE: [MIT](./license.md)
 
 
 ---
+### Работа с удаленным респозиторием
+
+---
+### Получение данных о состоянии респозитория
+---
+
 
 GIT logo Jason Long - https://git-scm.com/downloads/logos, license: [СС BY 3.0](https://creativecommons.org/licenses/by/3.0/)
