@@ -6,9 +6,12 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-### Содержание:
-1. Что-то
-2. [git add](add.md)
+### Основные операции в **GIT**:
+1. [git config](config.md "перейти к странице")
+2. [git init](init.md "перейти к странице")
+3. [git add](add.md "перейти к странице")
+4. [git commit](commit.md "перейти к странице")
+5. [git clone](clone.md "перейти к странице")
 
 
 ---
