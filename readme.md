@@ -26,3 +26,5 @@ LICENSE: [MIT](./license.md)
 
 
 GIT logo Jason Long - https://git-scm.com/downloads/logos, license: [СС BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
+[![ALT-bonus](./bonus.png "click me")](https://www.youtube.com/watch?v=9bZkp7q19f0&ab_channel=officialpsy)
